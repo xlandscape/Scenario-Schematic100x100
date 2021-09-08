@@ -1,5 +1,19 @@
-# Change log
-This list contains all additions, changes and fixes for the scenario. It was automatically created on 2021-02-22.
+# Changelog
+This list contains all additions, changes and fixes for the scenario.
+It was automatically created on 2021-09-08
+
+## [2.2] - 2021-09-08
+### Added
+- Script for automatic documentation
+
+###Changed
+- Restructured package layout
+- Updated geo-data to version 1.0
+- Renamed LICENSE.txt to LICENSE
+- Updated scenario metadata
+
+###Fixed
+
 
 ## [2.1] - 2020-11-30
 ### Added
