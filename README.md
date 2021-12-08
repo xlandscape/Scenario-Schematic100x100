@@ -15,11 +15,11 @@
 ## About the project
 A schematic scenario consisting of a field and an adjacent off-field habitat.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2021-09-08.
+document is from 2021-12-08.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
-* xOffFieldSoilRisk version 1.1.0 and higher
+* xOffFieldSoilRisk version 1.2.7 and higher
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ The scenario can be used in the following Landscape Models:
 Make sure you use the latest version of the Landscape Model.
 
 ### Installation
-Copy the complete scenario folder unaltered into the `scenario` sub-directory of your model. Reference the scenario
+Copy the complete scenario folder unaltered into the `scenario` subdirectory of your model. Reference the scenario
 from the model parameterization. For details how to reference the scenario from the user parameterization, see the 
 `README` of the model.
 

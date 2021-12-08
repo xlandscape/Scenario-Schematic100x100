@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-    <Version>2.2</Version>
+    <Version>2.3</Version>
     <SupportedRuntimeVersions>
-        <Version variant="xOffFieldSoilRisk" number="1.1.0" />
+        <Version variant="xOffFieldSoilRisk" number="1.2.7" />
     </SupportedRuntimeVersions>
     <Description>A schematic scenario consisting of a field and an adjacent off-field habitat.</Description>
     <Changelog>
+        <Version number="2.3" date="2021-12-08">
+            <Change author="sascha">Spell checking</Change>
+        </Version>
         <Version number="2.2" date="2021-09-08">
             <Change author="sascha">Restructured package layout</Change>
             <Change author="sascha">Updated geo-data to version 1.0</Change>
