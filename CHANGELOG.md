@@ -1,6 +1,15 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-09-08
+It was automatically created on 2021-12-08
+
+## [2.3] - 2021-12-08
+### Added
+
+###Changed
+- Spell checking
+
+###Fixed
+
 
 ## [2.2] - 2021-09-08
 ### Added
