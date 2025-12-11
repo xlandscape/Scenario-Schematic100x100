@@ -15,3 +15,9 @@ base.documentation.write_scenario_changelog(
 )
 base.documentation.write_contribution_notes(
     os.path.join(root_folder, "..", "..", "scenario", "schematic-100x100", "CONTRIBUTING.md"))
+base.documentation.write_repository_info(
+    os.path.join(root_folder, "..", "..", "scenario", "schematic-100x100"),
+    os.path.join(root_folder, "..", "..", "scenario", "schematic-100x100", "repository.json"),
+    os.path.join(root_folder, "..", "..", "..", "versions.json"),
+    "scenario"
+)

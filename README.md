@@ -15,11 +15,11 @@
 ## About the project
 A schematic scenario consisting of a field and an adjacent off-field habitat.
 This is an automatically generated documentation based on the available scenario metadata. The current version of this 
-document is from 2021-12-08.
+document is from 2025-12-11.
 
 ### Built with
 The scenario can be used in the following Landscape Models:
-* xOffFieldSoilRisk version 1.2.7 and higher
+* xOffFieldSoilRisk version 1.5.1 and higher
 
 
 ## Getting Started
@@ -35,8 +35,8 @@ from the model parameterization. For details how to reference the scenario from 
 ## Usage
 The scenario adds the following macros to the Landscape Model:
 * `:weather_mars-97100` (version 1.3.5)
-* `:LandscapeScenario` (version 1.0)
-* `:VfsMod_lookup_table` (version 1)
+* `:LandscapeScenario` (version 1.1)
+* `:Vfs-Mod_lookup_table` (version 1)
 
 ### Roadmap
 The scenario is final and not further developed. It will be, however, updated to reflect new requirements by the 
@@ -57,5 +57,5 @@ Distributed under the CC0 License. See `LICENSE` for more information.
 
 
 ## Acknowledgements
-* Joachim Kleinmann and Magnus Wang for the VfsMod lookup table
+* Joachim Kleinmann and Magnus Wang for the Vfs-Mod lookup table
 * MARS 25 km x 25 km gridded weather data for MARS grid cell 97100
