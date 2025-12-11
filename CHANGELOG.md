@@ -1,6 +1,17 @@
 # Changelog
 This list contains all additions, changes and fixes for the scenario.
-It was automatically created on 2021-12-08
+It was automatically created on 2025-12-11
+
+## [2.4] - 2025-12-11
+### Added
+- Repository information
+
+###Changed
+- Updated scenario metadata to current schema
+- Updated geodata metadata to current schema
+
+###Fixed
+
 
 ## [2.3] - 2021-12-08
 ### Added
